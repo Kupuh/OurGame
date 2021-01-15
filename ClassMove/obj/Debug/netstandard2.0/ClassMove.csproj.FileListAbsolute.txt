@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\WpfApp3\ClassMove\obj\Debug\netstandard2.0\ClassMove.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WpfApp3\ClassMove\obj\Debug\netstandard2.0\ClassMove.AssemblyInfo.cs
+C:\Users\HP\source\repos\WpfApp3\ClassMove\obj\Debug\netstandard2.0\ClassMove.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WpfApp3\ClassMove\bin\Debug\netstandard2.0\ClassMove.deps.json
+C:\Users\HP\source\repos\WpfApp3\ClassMove\bin\Debug\netstandard2.0\ClassMove.dll
+C:\Users\HP\source\repos\WpfApp3\ClassMove\bin\Debug\netstandard2.0\ClassMove.pdb
+C:\Users\HP\source\repos\WpfApp3\ClassMove\obj\Debug\netstandard2.0\ClassMove.dll
+C:\Users\HP\source\repos\WpfApp3\ClassMove\obj\Debug\netstandard2.0\ClassMove.pdb
+C:\Users\HP\source\repos\WpfApp3\ClassMove\obj\Debug\netstandard2.0\ClassMove.csprojAssemblyReference.cache
