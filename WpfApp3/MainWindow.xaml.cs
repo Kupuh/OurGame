@@ -55,7 +55,7 @@ namespace WpfApp3
 
             ImageBrush bg = new ImageBrush();
 
-            bg.ImageSource = new BitmapImage(new Uri("C:/Users/User/source/repos/WpfApp3/WpfApp3/images/back.png"));
+            bg.ImageSource = new BitmapImage(new Uri("C:/Users/Users/source/repos/WpfApp3/WpfApp3/images/back.png"));
 
             bg.TileMode = TileMode.Tile;
 
@@ -66,7 +66,7 @@ namespace WpfApp3
             MyCanvas.Background = bg;
 
             ImageBrush playerImage = new ImageBrush();
-            playerImage.ImageSource = new BitmapImage(new Uri("C:/Users/User/source/repos/WpfApp3/WpfApp3/images/player.png"));
+            playerImage.ImageSource = new BitmapImage(new Uri("C:/Users/Users/source/repos/WpfApp3/WpfApp3/images/player.png"));
             // присвоить плееру прямоугольную заливку
             player.Fill = playerImage;
         }
@@ -260,22 +260,22 @@ namespace WpfApp3
             switch (enemySpriteCounter)
             {
                 case 1:
-                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/User/source/repos/WpfApp3/WpfApp3/images/1.png"));
+                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/Users/source/repos/WpfApp3/WpfApp3/images/1.png"));
                     break;
                 case 2:
-                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/User/source/repos/WpfApp3/WpfApp3/images/2.png"));
+                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/Users/source/repos/WpfApp3/WpfApp3/images/2.png"));
                     break;
                 case 3:
-                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/User/source/repos/WpfApp3/WpfApp3/images/3.png"));
+                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/Users/source/repos/WpfApp3/WpfApp3/images/3.png"));
                     break;
                 case 4:
-                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/User/source/repos/WpfApp3/WpfApp3/images/4.png"));
+                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/Users/source/repos/WpfApp3/WpfApp3/images/4.png"));
                     break;
                 case 5:
-                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/User/source/repos/WpfApp3/WpfApp3/images/5.png"));
+                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/Users/source/repos/WpfApp3/WpfApp3/images/5.png"));
                     break;
                 default:
-                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/User/source/repos/WpfApp3/WpfApp3/images/1.png"));
+                    enemySprite.ImageSource = new BitmapImage(new Uri("C:/Users/Users/source/repos/WpfApp3/WpfApp3/images/1.png"));
                     break;
             }
 
